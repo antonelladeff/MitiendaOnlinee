@@ -1,10 +1,10 @@
-import React from 'react';
-import Title from '../Title/title';
 
-export const ItemListContainer = (props) => {
+
+const ItemListContainer = ({ texto }) => {
     return (
-        <Title greeting='Bienvenidos a Tienda Online' />
-    );
-};
-
-export default ItemListContainer;
+        <div className="contenedor-texto">
+            <p className="texto-ejemplo">{texto}</p>
+        </div>
+    )
+}
+export default ItemListContainer
