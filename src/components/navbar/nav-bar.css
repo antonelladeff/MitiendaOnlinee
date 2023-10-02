@@ -1,0 +1,23 @@
+.navbar {
+    background-color: rgb(10, 122, 61);
+    height: 70px;
+
+}
+
+.navbar-brand {
+    color: #fff;
+
+    font-size: 1.5rem;
+
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+    margin-right: 20px;
+
+}
+
+.navbar-nav .nav-link.active {
+    font-weight: bold;
+
+}
