@@ -5,4 +5,4 @@ const ItemListContainer = ({ texto }) => {
         </div>
     )
 }
-export default ItemListContainer
+export default ItemListContainer;
