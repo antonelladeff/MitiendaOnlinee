@@ -1,5 +1,5 @@
 import React from 'react';
-import CartWidget from '../CartWidget/CartWidget.jsx';
+import CartWidget from '../CartWidget/cartWidget.jsx';
 
 
 function Navbar() {
